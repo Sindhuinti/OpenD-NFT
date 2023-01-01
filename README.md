@@ -1,5 +1,8 @@
 # NFT Market dapp
 
+<div align="center">
+<img src="./nft.png" alt="nft image"/>
+</div>
 
 
 # To Install and Run the Project
