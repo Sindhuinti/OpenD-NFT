@@ -1,7 +1,7 @@
 # NFT Market dapp
 
 <div align="center">
-<img src="./nft.png" alt="nft image"/>
+<img src="./nft.png" alt="nft image" widt="100"/>
 </div>
 
 
