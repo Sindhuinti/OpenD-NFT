@@ -2,7 +2,7 @@
 
 
 
-# To Install and Run the Project
+## To Install and Run the Project
 
 1. start local dfx
 
@@ -27,7 +27,7 @@ dfx deploy --argument='("CryptoDunks #123", principal "mufug-tmxww-hmj6w-hrzuu-f
 http://localhost:8080/
 
 
-# Creating NFT for Testing
+## Creating NFT for Testing
 
 1. Mint an NFT on the command line to get NFT into mapOfNFTs:
 
@@ -53,7 +53,7 @@ dfx canister id opend
 dfx canister call tfuft-aqaaa-aaaaa-aaaoq-cai transferOwnership '(principal "rrkah-fqaaa-aaaaa-aaaaq-cai", true)'
 ```
 
-# Conneting to the Token Canister
+## Conneting to the Token Canister
 
 1. Copy over the token declarations folder
 
