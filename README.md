@@ -10,7 +10,7 @@
 ## How to mint an NFT
 > Users can mint their own NFTs by creating a digital asset and then using the marketplace's minting feature to create a unique token that represents ownership of that asset.
 
-## :movie_camera: [Click here for demo](./demo.md)
+## :movie_camera: [Click here for demo](./demo/demo.mp4)
 
 ![Demo](./demo/demo5.png)
 
