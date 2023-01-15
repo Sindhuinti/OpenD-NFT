@@ -26,8 +26,8 @@ Before you can run the code, you will need to have the following software instal
 - [Node](https://nodejs.org/en/)
 
 ### Installing
-1. Clone the repository: `git clone https://github.com/Sindhuinti/nft-dfinity.git`
-2. Navigate to the project directory: `cd opend`
+1. Clone the repository: `git clone https://github.com/Sindhuinti/OpenD-NFT.git`
+2. Navigate to the project directory: `cd opend-nft`
 
 ## To Install and Run the Project
 
